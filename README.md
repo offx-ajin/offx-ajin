@@ -1,9 +1,14 @@
 # 💫 About Me:
 💻 I'm currently working on Exploring programming, software development, and building projects that strengthen my technical skills. 
-🤝 I'm looking to collaborate on Beginner-friendly open-source projects, AI/ML projects, and innovative software development ideas. 
+
+🤝 I'm looking to collaborate on Beginner-friendly open-source projects, AI/ML projects, and innovative software development ideas.
+
 🙋 I'm looking for help with Improving my coding skills, learning new technologies, and gaining practical experience in real-world projects. 
+
 📚 I'm currently learning - Python and Java - Artificial Intelligence & Machine Learning - Generative AI and Large Language Models (LLMs) - Data Science and Software Development 
+
 💬 Ask me about Programming, Artificial Intelligence, Generative AI, technology, and football! 
+
 ⚡ Fun fact I'm an engineering student who loves exploring technology and playing football. Always curious, always learning, and always ready for new challenges!
 
 
